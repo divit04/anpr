@@ -57,9 +57,6 @@ python database.py
 python main.py
 ```
 
-## 📸 Demo
-
-![Demo Screenshot](screenshot.png)
 
 ## 📌 Notes
 
